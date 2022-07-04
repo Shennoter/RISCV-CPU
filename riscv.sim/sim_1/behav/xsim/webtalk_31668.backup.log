@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jul  3 20:41:31 2022
+# Process ID: 31668
+# Current directory: E:/vivado/projects/riscv/riscv.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/vivado/projects/riscv/riscv.sim/sim_1/behav/xsim/xsim.dir/test_alu_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/vivado/projects/riscv/riscv.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/vivado/projects/riscv/riscv.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/vivado/projects/riscv/riscv.sim/sim_1/behav/xsim/xsim.dir/test_alu_behav/webtalk/xsim_webtalk.tcl -notrace
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:06 . Memory (MB): peak = 109.492 ; gain = 17.941
+INFO: [Common 17-206] Exiting Webtalk at Sun Jul  3 20:41:37 2022...

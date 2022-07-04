@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../riscv.srcs/sources_1/ip/cpuclk" \
+"../../../../../zan-cpu/res/alu.v" \
+"../../../../riscv.srcs/sim_1/new/test_alu.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
